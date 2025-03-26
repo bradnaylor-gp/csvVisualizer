@@ -1,4 +1,4 @@
-**CSV Visualizer** v0.1 
+**CSV Visualizer** v0.11 
 ================
 
 
