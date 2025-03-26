@@ -18,7 +18,7 @@ distribution.
 variables.
   -    **Relationship Graphs**: Visual explorations of correlations between variables, revealing hidden patterns and 
 connections.
-  -    **Boxplot Overlays**: Dynamic comparisons of boxplots to identify outliers, trends, and group differences.
+  -    **Correlation Heatmaps: Highlighting strong positive or negative correlations between multiple variables in a visualized matrix.
 
 **Usage:**
 
