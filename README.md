@@ -5,7 +5,7 @@
 ![MOSHED-2025-3-25-21-48-55](https://github.com/user-attachments/assets/a1c218b7-9684-4bcd-8a72-f8c1f39e0789)
 
 
-A command-line interface (CLI) tool for exploring and visualizing CSV data.
+A command-line interface (CLI) tool for visualizing CSV data.
 
 **Features:**
 
