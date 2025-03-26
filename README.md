@@ -26,3 +26,8 @@ connections.
 * Run the application using `python3 csv_visualizer.py`
 * Enter file path of CSV data
 * Data is Visualized
+
+**Additional Resources:**
+
+* Sample data generator script: `generateCSV.py`
+* Example CSV file: `sample_sales_data.csv`
